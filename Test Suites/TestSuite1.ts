@@ -22,20 +22,8 @@
       <guid>6470385d-54a8-4067-adcf-896e759b9467</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>false</isRun>
-      <testCaseId>Test Cases/Login/LoginScriptnVar</testCaseId>
+      <testCaseId>Test Cases/Login/LoginEnvirontment</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>781fa41f-4293-4b83-82fa-ad4f3b12108f</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>7ffbee45-aa64-4e39-8b6b-be8d3041950f</variableId>
-      </variableLink>
    </testCaseLink>
    <testCaseLink>
       <guid>4e38730b-13b6-48be-b8b3-61a67920b7cc</guid>
